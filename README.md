@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png)](https://ko-fi.com/H2H1UYLEJ)
+[![ko-fi](kofi.png)](https://ko-fi.com/H2H1UYLEJ)
 
 <!--
 **daviscodesbugs/daviscodesbugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
